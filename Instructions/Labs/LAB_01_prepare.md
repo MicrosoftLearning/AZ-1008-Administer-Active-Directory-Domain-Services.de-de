@@ -89,7 +89,7 @@ In dieser Aufgabe stellen Sie einen Windows Server 2022-Domänencontroller für 
         1.  Bevorzugter DNS-Server: 1.1.1.1
         2.  Alternativer DNS-Server: 8.8.8.8
 27. Klicken Sie auf **Schließen**. Wenn Sie gefragt werden, ob der Computer auffindbar sein soll, wählen Sie **Yes** aus.
-28. Öffnen Sie im Startmenü den Server-Manager, wählen Sie „Local Server“ und dann den Computernamen aus. Anschließend wird das Dialogfeld „System Properties“ geöffnet. Wählen Sie im Dialogfeld „System Properties“ auf der Seite „Computer Name“ die Option **Change** aus.
+28. Öffnen Sie im Startmenü den Server-Manager, und wählen Sie Local Server und dann den Computernamen aus. Anschließend wird das Dialogfeld „System Properties“ geöffnet. Wählen Sie im Dialogfeld „System Properties“ auf der Seite „Computer Name“ die Option **Change** aus.
 29. Ändern Sie im Dialogfeld „Computer Name/Domain Changes“ den Computernamen in **TAILWIND-DC1**, und klicken Sie dann auf **OK**.<br>
 30. Klicken Sie im Dialogfeld dafür, dass Sie den Computer neu starten müssen, auf **OK**.
 31. Wählen Sie im Dialogfeld „System Properties“ die Option **Close** aus.
